@@ -25,4 +25,7 @@ select-word-style bash
 # Bash-like CLI comments
 setopt interactivecomments
 
+# Bash-like C-u
+bindkey \^U backward-kill-line
+
 alias ls='ls --color=auto'
