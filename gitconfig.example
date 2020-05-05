@@ -1,0 +1,6 @@
+[include]
+        path = ~/opt/config/gitconfig
+
+[user]
+        email = myemail@myemail.com
+        name = Cesar Kawakami

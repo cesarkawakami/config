@@ -1,0 +1,12 @@
+'body':
+  'ctrl-tab': 'pane:show-next-item'
+  'ctrl-tab ^ctrl': 'unset!'
+  'ctrl-shift-tab': 'pane:show-previous-item'
+  'ctrl-shift-tab ^ctrl': 'unset!'
+  'alt-cmd-right': 'window:focus-pane-on-right'
+  'alt-cmd-left': 'window:focus-pane-on-left'
+  'alt-cmd-up': 'window:focus-pane-on-up'
+  'alt-cmd-down': 'window:focus-pane-on-down'
+'atom-text-editor':
+  'alt-up': 'expand-region:expand'
+  'alt-down': 'expand-region:shrink'

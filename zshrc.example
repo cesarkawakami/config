@@ -1,0 +1,4 @@
+. ~/opt/config/zshrc
+. ~/opt/pandaprompt/pandaprompt.zsh
+. /usr/share/fzf/key-bindings.zsh
+. /usr/share/fzf/completion.zsh
