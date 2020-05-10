@@ -28,4 +28,7 @@ setopt interactivecomments
 # Bash-like C-u
 bindkey \^U backward-kill-line
 
+# PATH with unique entries
+typeset -U path
+
 alias ls='ls --color=auto'
