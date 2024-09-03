@@ -32,3 +32,4 @@ bindkey \^U backward-kill-line
 typeset -U path
 
 alias ls='ls --color=auto'
+alias g='git'
