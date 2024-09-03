@@ -1,3 +1,5 @@
+# Don't use this anymore. Use cesarconfig
+
 # Personal configuration files
 
 When there's a `~/$name.example` file, copy it for local config. Keep main
